@@ -1,9 +1,7 @@
-<script setup>
-import Hello from "./components/Hello.vue";
-</script>
+<script setup></script>
 
 <template>
-  <Hello msg="PROJECT BOARD" />
+  <router-view></router-view>
 </template>
 
 <style scoped></style>
